@@ -39,7 +39,8 @@ public class MainActivity extends AppCompatActivity {
         recyclerView = (RecyclerView) findViewById(R.id.rc_view_trending_list);
         recyclerView1 = (RecyclerView) findViewById(R.id.rc_view_original);
         recyclerView2 = (RecyclerView) findViewById(R.id.rc_view_WebSeries);
-        //Layout manager => Horizontal
+        
+        //This is Layout Manager code for git demo
 
           modelArrayList = new ArrayList<TrendingModel>();
 
